@@ -1,6 +1,10 @@
 -- 创建库
 create database if not exists my_db;
 
+
+
+
+
 -- 切换库
 use my_db;
 
