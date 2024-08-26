@@ -194,6 +194,4 @@ public class PostController {
         return ResultUtils.success(postPage);
     }
 
-    // endregion
-
 }
